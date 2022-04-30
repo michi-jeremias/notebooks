@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+mlp_img/*.png
+*.bak
+/__pycache__/*
+.idea/
+*.pyc
+.vscode/
+__pycache__/
+data/
+*.zip
+*.gz
